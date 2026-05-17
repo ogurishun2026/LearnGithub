@@ -64,3 +64,4 @@
 
 | 序号 | 仓库地址 | 一句话说明 | 详细文档 | 研究日期 |
 |------|----------|-----------|----------|----------|
+| 8 | https://github.com/liuzhao1225/YouDub-webui | 开源视频本地化工具，YouTube/B站视频自动翻译配音，8步流水线生产验证 | [其他/YouDub-webui/summary.md](其他/YouDub-webui/summary.md) | 2026-05-18 |
