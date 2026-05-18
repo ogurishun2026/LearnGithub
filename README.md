@@ -12,6 +12,7 @@
 | 2 | https://github.com/Runfusion/Fusion | 多节点 AI Agent 编排平台，TypeScript，看板式任务管理+worktree隔离+Mission层级 | [AI-工具-Agent平台/Fusion/summary.md](AI-工具-Agent平台/Fusion/summary.md) | 2026-05-15 |
 | 3 | https://github.com/warpdotdev/warp | Rust构建的Agentic终端+AI Agent编排平台，内置Oz Agent和MCP支持 | [AI-工具-Agent平台/warp/summary.md](AI-工具-Agent平台/warp/summary.md) | 2026-05-17 |
 | 9 | https://github.com/anomalyco/opencode | 开源AI编码Agent，161K+ Stars，多端交互+MCP+Skill系统 | [AI-工具-Agent平台/opencode/summary.md](AI-工具-Agent平台/opencode/summary.md) | 2026-05-18 |
+| 11 | https://github.com/yofine/Mexus | 本地多CLI Agent管理控制台，TypeScript+Fastify+React，支持Claude Code/OpenCode/Aider等 | [AI-工具-Agent平台/Mexus/summary.md](AI-工具-Agent平台/Mexus/summary.md) | 2026-05-18 |
 
 ---
 
