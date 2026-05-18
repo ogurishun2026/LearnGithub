@@ -11,6 +11,7 @@
 | 1 | https://github.com/chef-guo/agents-hive | 企业级 Agent 编排运行平台，Go+React，支持飞书/企微/微信/钉钉多通道统一 | [AI-工具-Agent平台/agents-hive/summary.md](AI-工具-Agent平台/agents-hive/summary.md) | 2026-05-15 |
 | 2 | https://github.com/Runfusion/Fusion | 多节点 AI Agent 编排平台，TypeScript，看板式任务管理+worktree隔离+Mission层级 | [AI-工具-Agent平台/Fusion/summary.md](AI-工具-Agent平台/Fusion/summary.md) | 2026-05-15 |
 | 3 | https://github.com/warpdotdev/warp | Rust构建的Agentic终端+AI Agent编排平台，内置Oz Agent和MCP支持 | [AI-工具-Agent平台/warp/summary.md](AI-工具-Agent平台/warp/summary.md) | 2026-05-17 |
+| 9 | https://github.com/anomalyco/opencode | 开源AI编码Agent，161K+ Stars，多端交互+MCP+Skill系统 | [AI-工具-Agent平台/opencode/summary.md](AI-工具-Agent平台/opencode/summary.md) | 2026-05-18 |
 
 ---
 
