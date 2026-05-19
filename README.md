@@ -53,6 +53,7 @@
 | 序号 | 仓库地址 | 一句话说明 | 详细文档 | 研究日期 |
 |------|----------|-----------|----------|----------|
 | 10 | https://github.com/ChiR24/Unreal_mcp | UE5 MCP服务器，36工具让AI控制虚幻引擎，C++插件+TS服务端双端架构 | [游戏开发/Unreal_mcp/summary.md](游戏开发/Unreal_mcp/summary.md) | 2026-05-18 |
+| 12 | https://github.com/CoplayDev/unity-mcp | Unity MCP桥梁，9.7K Stars让AI直接控制Unity Editor，39工具覆盖资源/场景/脚本/构建全流程 | [游戏开发/unity-mcp/summary.md](游戏开发/unity-mcp/summary.md) | 2026-05-19 |
 
 ---
 
