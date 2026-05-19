@@ -38,6 +38,7 @@
 | 序号 | 仓库地址 | 一句话说明 | 详细文档 | 研究日期 |
 |------|----------|-----------|----------|----------|
 | 7 | https://github.com/nexu-io/open-design | 开源AI设计工具，131技能+151品牌设计系统，16种CLI Agent驱动生成原型/幻灯片/视频 | [前端-UI/open-design/summary.md](前端-UI/open-design/summary.md) | 2026-05-17 |
+| 13 | https://github.com/basketikun/infinite-canvas | 无限画布AI创作工作台，集成画布编排/AI生图/提示词库/素材管理，Next.js+Go全栈 | [前端-UI/infinite-canvas/summary.md](前端-UI/infinite-canvas/summary.md) | 2026-05-19 |
 
 ---
 
