@@ -39,6 +39,8 @@
 |------|----------|-----------|----------|----------|
 | 7 | https://github.com/nexu-io/open-design | 开源AI设计工具，131技能+151品牌设计系统，16种CLI Agent驱动生成原型/幻灯片/视频 | [前端-UI/open-design/summary.md](前端-UI/open-design/summary.md) | 2026-05-17 |
 | 13 | https://github.com/basketikun/infinite-canvas | 无限画布AI创作工作台，集成画布编排/AI生图/提示词库/素材管理，Next.js+Go全栈 | [前端-UI/infinite-canvas/summary.md](前端-UI/infinite-canvas/summary.md) | 2026-05-19 |
+| 14 | https://github.com/yuqie6/ProductFlow | 电商商品素材工作台，画布编排+AI生图+连续生图会话，Python+React全栈 | [前端-UI/ProductFlow/summary.md](前端-UI/ProductFlow/summary.md) | 2026-05-19 |
+| 15 | https://github.com/SummerSec/Gen-Image | GPT Image前端图像生成工作台，内置提示词库管理，React+TypeScript轻量工具 | [前端-UI/Gen-Image/summary.md](前端-UI/Gen-Image/summary.md) | 2026-05-19 |
 
 ---
 
