@@ -41,6 +41,7 @@
 | 13 | https://github.com/basketikun/infinite-canvas | 无限画布AI创作工作台，集成画布编排/AI生图/提示词库/素材管理，Next.js+Go全栈 | [前端-UI/infinite-canvas/summary.md](前端-UI/infinite-canvas/summary.md) | 2026-05-19 |
 | 14 | https://github.com/yuqie6/ProductFlow | 电商商品素材工作台，画布编排+AI生图+连续生图会话，Python+React全栈 | [前端-UI/ProductFlow/summary.md](前端-UI/ProductFlow/summary.md) | 2026-05-19 |
 | 15 | https://github.com/SummerSec/Gen-Image | GPT Image前端图像生成工作台，内置提示词库管理，React+TypeScript轻量工具 | [前端-UI/Gen-Image/summary.md](前端-UI/Gen-Image/summary.md) | 2026-05-19 |
+| 16 | https://github.com/jlcodes99/cockpit-tools | 通用AI IDE账号管理工具，支持12+平台多账号切换/配额监控/自动唤醒/多开实例 | [AI-工具-Agent平台/cockpit-tools/summary.md](AI-工具-Agent平台/cockpit-tools/summary.md) | 2026-05-20 |
 
 ---
 
