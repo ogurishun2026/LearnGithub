@@ -44,6 +44,7 @@
 | 16 | https://github.com/jlcodes99/cockpit-tools | 通用AI IDE账号管理工具，支持12+平台多账号切换/配额监控/自动唤醒/多开实例 | [AI-工具-Agent平台/cockpit-tools/summary.md](AI-工具-Agent平台/cockpit-tools/summary.md) | 2026-05-20 |
 | 17 | https://github.com/OpenCoworkAI/open-codesign | 开源Claude Design替代品，Prompt生成交互原型/幻灯片/PDF，多模型支持本地优先 | [AI-工具-Agent平台/open-codesign/summary.md](AI-工具-Agent平台/open-codesign/summary.md) | 2026-05-20 |
 | 19 | https://github.com/FlowElement-ai/m_flow | 生物启发的认知记忆引擎，Graph RAG新范式，倒锥形知识拓扑+Bundle Search | [AI-工具-Agent平台/m_flow/summary.md](AI-工具-Agent平台/m_flow/summary.md) | 2026-05-20 |
+| 20 | https://github.com/QuantumNous/new-api | 34K Stars LLM网关，聚合多模型+格式转换+配额计费+Docker部署 | [AI-工具-Agent平台/new-api/summary.md](AI-工具-Agent平台/new-api/summary.md) | 2026-05-20 |
 
 ---
 
