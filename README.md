@@ -22,6 +22,7 @@
 |------|----------|-----------|----------|----------|
 | 4 | https://github.com/lijigang/ljg-skills | Claude Code 自定义技能插件集合，包含17个独立技能（知识处理、写作、可视化、思维框架等） | [Claude-Code-技能-插件/ljg-skills/summary.md](Claude-Code-技能-插件/ljg-skills/summary.md) | 2026-05-15 |
 | 5 | https://github.com/mattpocock/skills | Matt Pocock 的工程化 AI 技能集，覆盖需求对齐、TDD、调试、架构治理全流程 | [v1](Claude-Code-技能-插件/mattpocock-skills/summary.md) [v2](Claude-Code-技能-插件/mattpocock-skills/summary-v2.md) | 2026-05-15 |
+| 21 | https://github.com/jiangmuran/claude-image | GPT Image 2 skill包，教Agent正确prompt+视觉自验证，零依赖CLI | [Claude-Code-技能-插件/claude-image/summary.md](Claude-Code-技能-插件/claude-image/summary.md) | 2026-05-20 |
 
 ---
 
