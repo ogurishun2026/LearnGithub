@@ -13,6 +13,7 @@
 | 3 | https://github.com/warpdotdev/warp | Rust构建的Agentic终端+AI Agent编排平台，内置Oz Agent和MCP支持 | [AI-工具-Agent平台/warp/summary.md](AI-工具-Agent平台/warp/summary.md) | 2026-05-17 |
 | 9 | https://github.com/anomalyco/opencode | 开源AI编码Agent，161K+ Stars，多端交互+MCP+Skill系统 | [AI-工具-Agent平台/opencode/summary.md](AI-工具-Agent平台/opencode/summary.md) | 2026-05-18 |
 | 11 | https://github.com/yofine/Mexus | 本地多CLI Agent管理控制台，TypeScript+Fastify+React，支持Claude Code/OpenCode/Aider等 | [AI-工具-Agent平台/Mexus/summary.md](AI-工具-Agent平台/Mexus/summary.md) | 2026-05-18 |
+| 25 | https://github.com/Yuan-ManX/ai-game-devtools | AI游戏开发工具百科全书，16类300+工具索引，涵盖LLM/VLM/世界模型/图像/纹理/3D/动画/音乐等 | [AI-工具-Agent平台/ai-game-devtools/summary.md](AI-工具-Agent平台/ai-game-devtools/summary.md) | 2026-05-23 |
 
 ---
 
