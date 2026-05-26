@@ -73,6 +73,7 @@
 | 28 | https://github.com/earthtojake/text-to-cad | ⭐AI驱动CAD生成工具集，自然语言建模+STEP/STL/URDF/SDF导出，build123d+WebGL本地查看器，4.8K Stars | [游戏开发/text-to-cad/summary.md](游戏开发/text-to-cad/summary.md) | 2026-05-26 |
 | 33 | https://github.com/hatayama/unity-cli-loop | AI驱动Unity开发循环工具，16个Skills自主编译/测试/截图/PlayMode自动化，Claude Code/Codex集成 | [游戏开发/unity-cli-loop/summary.md](游戏开发/unity-cli-loop/summary.md) | 2026-05-26 |
 | 34 | https://github.com/DouglasDwyer/octo-release | Rust体素游戏引擎，ray marching+路径追踪光照+WASM modding，Windows+Web双平台 | [游戏开发/octo-release/summary.md](游戏开发/octo-release/summary.md) | 2026-05-26 |
+| 35 | https://github.com/r1n7aro/Locus | ⭐开源Unity Dev Agent，Rust+Tauri独立应用+Roslyn JIT编译，语义资产编辑+知识系统+可视化版本控制 | [游戏开发/Locus/summary.md](游戏开发/Locus/summary.md) | 2026-05-26 |
 | 29 | https://github.com/comet-ml/opik-openclaw | OpenClaw的官方Opik可观测性插件，拦截LLM/工具/子Agent事件导出到Comet Opik追踪监控 | [AI-工具-Agent平台/opik-openclaw/summary.md](AI-工具-Agent平台/opik-openclaw/summary.md) | 2026-05-26 |
 | 30 | https://github.com/Tracer-Cloud/opensre | ⭐AI SRE Agent框架，构建自有基础设施上的故障调查Agent，5.9K Stars支持60+集成 | [AI-工具-Agent平台/opensre/summary.md](AI-工具-Agent平台/opensre/summary.md) | 2026-05-26 |
 | 31 | https://github.com/derisk-ai/OpenDerisk | 多Agent协作的AI驱动SRE风险智能系统，DeepResearch RCA+可视化证据链+OpenRCA数据集，935 Stars | [AI-工具-Agent平台/OpenDerisk/summary.md](AI-工具-Agent平台/OpenDerisk/summary.md) | 2026-05-26 |
