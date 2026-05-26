@@ -29,6 +29,11 @@
 | 24 | https://github.com/1jehuang/jcode | Rust编写的高性能编码Agent Harness，启动快245×/10会话仅260MB，30+Provider | [AI-工具-Agent平台/jcode/summary.md](AI-工具-Agent平台/jcode/summary.md) | 2026-05-20 |
 | 27 | https://github.com/killop/codedb-mcp | ⭐Rust实现的本地MCP Server，预索引+混合搜索毫秒级查代码，支持C#/Java/Python/C++符号/引用/依赖图 | [Claude-Code-技能-插件/codedb-mcp/summary.md](Claude-Code-技能-插件/codedb-mcp/summary.md) | 2026-05-26 |
 | 36 | https://github.com/colbymchenry/codegraph | ⭐预索引代码知识图谱MCP工具，35%更少Token/71%更少工具调用，26.9K Stars支持20+语言和14种框架路由 | [Claude-Code-技能-插件/codegraph/summary.md](Claude-Code-技能-插件/codegraph/summary.md) | 2026-05-26 |
+| 40 | https://github.com/jianshuo/ccglass | 302 Stars Claude Code 流量监控代理+Web仪表板，实时查看Agent→Model请求内容 | [Claude-Code-技能-插件/ccglass/summary.md](Claude-Code-技能-插件/ccglass/summary.md) | 2026-05-26 |
+| 41 | https://github.com/rpamis/comet | 216 Stars OpenSpec+Superpowers双星开发工作流，5阶段自动化管道+状态管理 | [Claude-Code-技能-插件/comet/summary.md](Claude-Code-技能-插件/comet/summary.md) | 2026-05-26 |
+| 42 | https://github.com/Yuzc-001/skill-router | 40 Stars 低存在感Skill路由运行时，减少skill-selection浪费，实用主义设计 | [Claude-Code-技能-插件/skill-router/summary.md](Claude-Code-技能-插件/skill-router/summary.md) | 2026-05-26 |
+| 43 | https://github.com/tripleyak/SkillForge | 668 Stars AI Skill创作方法论，4阶段架构+多Agent评审，Art→Engineering转型 | [Claude-Code-技能-插件/SkillForge/summary.md](Claude-Code-技能-插件/SkillForge/summary.md) | 2026-05-26 |
+| 44 | https://github.com/maipianworni/SkillTree | 49 Stars AI Agent Skill分层路由树生成器，ROOT→ROUTER→SKILL树形结构 | [Claude-Code-技能-插件/SkillTree/summary.md](Claude-Code-技能-插件/SkillTree/summary.md) | 2026-05-26 |
 | 32 | https://github.com/BloopAI/vibe-kanban | ⭐看板式Agent任务管理平台，支持10+编码Agent，26.5K Stars，⚠️即将停服 | [AI-工具-Agent平台/vibe-kanban/summary.md](AI-工具-Agent平台/vibe-kanban/summary.md) | 2026-05-26 |
 
 ---
@@ -53,6 +58,9 @@
 | 17 | https://github.com/OpenCoworkAI/open-codesign | 开源Claude Design替代品，Prompt生成交互原型/幻灯片/PDF，多模型支持本地优先 | [AI-工具-Agent平台/open-codesign/summary.md](AI-工具-Agent平台/open-codesign/summary.md) | 2026-05-20 |
 | 19 | https://github.com/FlowElement-ai/m_flow | 生物启发的认知记忆引擎，Graph RAG新范式，倒锥形知识拓扑+Bundle Search | [AI-工具-Agent平台/m_flow/summary.md](AI-工具-Agent平台/m_flow/summary.md) | 2026-05-20 |
 | 20 | https://github.com/QuantumNous/new-api | 34K Stars LLM网关，聚合多模型+格式转换+配额计费+Docker部署 | [AI-工具-Agent平台/new-api/summary.md](AI-工具-Agent平台/new-api/summary.md) | 2026-05-20 |
+| 37 | https://github.com/burntsushi/ripgrep | 64K+ Stars 快速搜索工具，多线程+智能过滤+Rust实现，grep替代品 | [前端-UI/ripgrep/summary.md](前端-UI/ripgrep/summary.md) | 2026-05-26 |
+| 38 | https://github.com/joeseesun/qiaomu-artist-style | 383位艺术家风格对比图库，上传参考图匹配风格+AI生图，TypeScript | [前端-UI/qiaomu-artist-style/summary.md](前端-UI/qiaomu-artist-style/summary.md) | 2026-05-26 |
+| 39 | https://github.com/joeseesun/qiaomu-mondo-poster-design | 812 Stars AI海报设计工具，一句话生成大师级海报/书籍封面，触发词"Mondo风格" | [前端-UI/qiaomu-mondo-poster-design/summary.md](前端-UI/qiaomu-mondo-poster-design/summary.md) | 2026-05-26 |
 
 ---
 
@@ -85,6 +93,7 @@
 
 | 序号 | 仓库地址 | 一句话说明 | 详细文档 | 研究日期 |
 |------|----------|-----------|----------|----------|
+| 45 | https://github.com/karanb192/algo-sensei | 69 Stars AI-powered LeetCode/DSA导师，5模式渐进式提示+模拟面试+模式识别训练 | [编程学习-教程/algo-sensei/summary.md](编程学习-教程/algo-sensei/summary.md) | 2026-05-26 |
 
 ---
 
