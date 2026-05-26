@@ -35,6 +35,7 @@
 | 43 | https://github.com/tripleyak/SkillForge | 668 Stars AI Skill创作方法论，4阶段架构+多Agent评审，Art→Engineering转型 | [Claude-Code-技能-插件/SkillForge/summary.md](Claude-Code-技能-插件/SkillForge/summary.md) | 2026-05-26 |
 | 44 | https://github.com/maipianworni/SkillTree | 49 Stars AI Agent Skill分层路由树生成器，ROOT→ROUTER→SKILL树形结构 | [Claude-Code-技能-插件/SkillTree/summary.md](Claude-Code-技能-插件/SkillTree/summary.md) | 2026-05-26 |
 | 32 | https://github.com/BloopAI/vibe-kanban | ⭐看板式Agent任务管理平台，支持10+编码Agent，26.5K Stars，⚠️即将停服 | [AI-工具-Agent平台/vibe-kanban/summary.md](AI-工具-Agent平台/vibe-kanban/summary.md) | 2026-05-26 |
+| 46 | https://github.com/moeru-ai/airi | 开源AI虚拟角色平台，重现Neuro-sama灵魂，支持语音对话/Minecraft/Factorio游戏Agent | [AI-工具-Agent平台/airi/summary.md](AI-工具-Agent平台/airi/summary.md) | 2026-05-26 |
 
 ---
 
@@ -94,6 +95,8 @@
 | 序号 | 仓库地址 | 一句话说明 | 详细文档 | 研究日期 |
 |------|----------|-----------|----------|----------|
 | 45 | https://github.com/karanb192/algo-sensei | 69 Stars AI-powered LeetCode/DSA导师，5模式渐进式提示+模拟面试+模式识别训练 | [编程学习-教程/algo-sensei/summary.md](编程学习-教程/algo-sensei/summary.md) | 2026-05-26 |
+
+| 46 | https://github.com/st-tech/ppf-contact-solver | ZOZO开源物理仿真引擎，1.8亿级碰撞+GPU单精度+FEM弹性，TOG论文发表+Blender插件 | [游戏开发/ppf-contact-solver/summary.md](游戏开发/ppf-contact-solver/summary.md) | 2026-05-26 |
 
 ---
 
