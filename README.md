@@ -28,6 +28,7 @@
 | 23 | https://github.com/multica-ai/andrej-karpathy-skills | Karpathy启发的Claude Code工程化指南，四大原则：思考/简单/精准/目标驱动 | [Claude-Code-技能-插件/andrej-karpathy-skills/summary.md](Claude-Code-技能-插件/andrej-karpathy-skills/summary.md) | 2026-05-20 |
 | 24 | https://github.com/1jehuang/jcode | Rust编写的高性能编码Agent Harness，启动快245×/10会话仅260MB，30+Provider | [AI-工具-Agent平台/jcode/summary.md](AI-工具-Agent平台/jcode/summary.md) | 2026-05-20 |
 | 27 | https://github.com/killop/codedb-mcp | ⭐Rust实现的本地MCP Server，预索引+混合搜索毫秒级查代码，支持C#/Java/Python/C++符号/引用/依赖图 | [Claude-Code-技能-插件/codedb-mcp/summary.md](Claude-Code-技能-插件/codedb-mcp/summary.md) | 2026-05-26 |
+| 32 | https://github.com/BloopAI/vibe-kanban | ⭐看板式Agent任务管理平台，支持10+编码Agent，26.5K Stars，⚠️即将停服 | [AI-工具-Agent平台/vibe-kanban/summary.md](AI-工具-Agent平台/vibe-kanban/summary.md) | 2026-05-26 |
 
 ---
 
@@ -70,6 +71,8 @@
 | 18 | https://github.com/flopperam/unreal-engine-mcp | UE5.5+ MCP服务器，50+工具控制Unreal Editor，C++插件+Cursor插件架构 | [游戏开发/unreal-engine-mcp/summary.md](游戏开发/unreal-engine-mcp/summary.md) | 2026-05-20 |
 | 22 | https://github.com/bababuyyy/unity-isometric-pixel-pipeline | Unity 6 URP像素艺术等距渲染管线，5-pass管线+Toon shading+GPU草丛+1px轮廓 | [游戏开发/unity-isometric-pixel-pipeline/summary.md](游戏开发/unity-isometric-pixel-pipeline/summary.md) | 2026-05-20 |
 | 28 | https://github.com/earthtojake/text-to-cad | ⭐AI驱动CAD生成工具集，自然语言建模+STEP/STL/URDF/SDF导出，build123d+WebGL本地查看器，4.8K Stars | [游戏开发/text-to-cad/summary.md](游戏开发/text-to-cad/summary.md) | 2026-05-26 |
+| 33 | https://github.com/hatayama/unity-cli-loop | AI驱动Unity开发循环工具，16个Skills自主编译/测试/截图/PlayMode自动化，Claude Code/Codex集成 | [游戏开发/unity-cli-loop/summary.md](游戏开发/unity-cli-loop/summary.md) | 2026-05-26 |
+| 34 | https://github.com/DouglasDwyer/octo-release | Rust体素游戏引擎，ray marching+路径追踪光照+WASM modding，Windows+Web双平台 | [游戏开发/octo-release/summary.md](游戏开发/octo-release/summary.md) | 2026-05-26 |
 | 29 | https://github.com/comet-ml/opik-openclaw | OpenClaw的官方Opik可观测性插件，拦截LLM/工具/子Agent事件导出到Comet Opik追踪监控 | [AI-工具-Agent平台/opik-openclaw/summary.md](AI-工具-Agent平台/opik-openclaw/summary.md) | 2026-05-26 |
 | 30 | https://github.com/Tracer-Cloud/opensre | ⭐AI SRE Agent框架，构建自有基础设施上的故障调查Agent，5.9K Stars支持60+集成 | [AI-工具-Agent平台/opensre/summary.md](AI-工具-Agent平台/opensre/summary.md) | 2026-05-26 |
 | 31 | https://github.com/derisk-ai/OpenDerisk | 多Agent协作的AI驱动SRE风险智能系统，DeepResearch RCA+可视化证据链+OpenRCA数据集，935 Stars | [AI-工具-Agent平台/OpenDerisk/summary.md](AI-工具-Agent平台/OpenDerisk/summary.md) | 2026-05-26 |
