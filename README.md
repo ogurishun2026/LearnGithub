@@ -27,6 +27,7 @@
 | 21 | https://github.com/jiangmuran/claude-image | GPT Image 2 skill包，教Agent正确prompt+视觉自验证，零依赖CLI | [Claude-Code-技能-插件/claude-image/summary.md](Claude-Code-技能-插件/claude-image/summary.md) | 2026-05-20 |
 | 23 | https://github.com/multica-ai/andrej-karpathy-skills | Karpathy启发的Claude Code工程化指南，四大原则：思考/简单/精准/目标驱动 | [Claude-Code-技能-插件/andrej-karpathy-skills/summary.md](Claude-Code-技能-插件/andrej-karpathy-skills/summary.md) | 2026-05-20 |
 | 24 | https://github.com/1jehuang/jcode | Rust编写的高性能编码Agent Harness，启动快245×/10会话仅260MB，30+Provider | [AI-工具-Agent平台/jcode/summary.md](AI-工具-Agent平台/jcode/summary.md) | 2026-05-20 |
+| 27 | https://github.com/killop/codedb-mcp | Rust实现的本地MCP Server，预索引+混合搜索毫秒级查代码，支持C#/Java/Python/C++符号/引用/依赖图 | [Claude-Code-技能-插件/codedb-mcp/summary.md](Claude-Code-技能-插件/codedb-mcp/summary.md) | 2026-05-26 |
 
 ---
 
