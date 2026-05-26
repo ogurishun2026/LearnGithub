@@ -70,6 +70,9 @@
 | 18 | https://github.com/flopperam/unreal-engine-mcp | UE5.5+ MCP服务器，50+工具控制Unreal Editor，C++插件+Cursor插件架构 | [游戏开发/unreal-engine-mcp/summary.md](游戏开发/unreal-engine-mcp/summary.md) | 2026-05-20 |
 | 22 | https://github.com/bababuyyy/unity-isometric-pixel-pipeline | Unity 6 URP像素艺术等距渲染管线，5-pass管线+Toon shading+GPU草丛+1px轮廓 | [游戏开发/unity-isometric-pixel-pipeline/summary.md](游戏开发/unity-isometric-pixel-pipeline/summary.md) | 2026-05-20 |
 | 28 | https://github.com/earthtojake/text-to-cad | ⭐AI驱动CAD生成工具集，自然语言建模+STEP/STL/URDF/SDF导出，build123d+WebGL本地查看器，4.8K Stars | [游戏开发/text-to-cad/summary.md](游戏开发/text-to-cad/summary.md) | 2026-05-26 |
+| 29 | https://github.com/comet-ml/opik-openclaw | OpenClaw的官方Opik可观测性插件，拦截LLM/工具/子Agent事件导出到Comet Opik追踪监控 | [AI-工具-Agent平台/opik-openclaw/summary.md](AI-工具-Agent平台/opik-openclaw/summary.md) | 2026-05-26 |
+| 30 | https://github.com/Tracer-Cloud/opensre | ⭐AI SRE Agent框架，构建自有基础设施上的故障调查Agent，5.9K Stars支持60+集成 | [AI-工具-Agent平台/opensre/summary.md](AI-工具-Agent平台/opensre/summary.md) | 2026-05-26 |
+| 31 | https://github.com/derisk-ai/OpenDerisk | 多Agent协作的AI驱动SRE风险智能系统，DeepResearch RCA+可视化证据链+OpenRCA数据集，935 Stars | [AI-工具-Agent平台/OpenDerisk/summary.md](AI-工具-Agent平台/OpenDerisk/summary.md) | 2026-05-26 |
 
 ---
 
