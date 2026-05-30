@@ -17,6 +17,9 @@
 | 26 | https://github.com/langchain-ai/langchain | Agent工程平台，monorepo架构含core/agents/chains/memory/retrievers，16+官方Partner集成 | [AI-工具-Agent平台/langchain/summary.md](AI-工具-Agent平台/langchain/summary.md) | 2026-05-23 |
 
 | 47 | https://github.com/EverMind-AI/EverOS | 6K Stars自进化Agent长期记忆系统，EverCore自组织记忆OS+HyperMem超图架构+完整评估基准 | [AI-工具-Agent平台/EverOS/summary.md](AI-工具-Agent平台/EverOS/summary.md) | 2026-05-30 |
+| 48 | https://github.com/esengine/DeepSeek-Reasonix | 14K Stars DeepSeek专用终端编码Agent，三支柱架构99%+缓存命中率，低成本长会话 | [AI-工具-Agent平台/DeepSeek-Reasonix/summary.md](AI-工具-Agent平台/DeepSeek-Reasonix/summary.md) | 2026-05-30 |
+
+| 49 | https://github.com/heygen-com/hyperframes | 22K Stars HTML原生视频生成框架，headless Chrome+FFmpeg seekable渲染，Agent友好确定性输出 | [前端-UI/hyperframes/summary.md](前端-UI/hyperframes/summary.md) | 2026-05-30 |
 
 ---
 
