@@ -16,6 +16,8 @@
 | 25 | https://github.com/Yuan-ManX/ai-game-devtools | AI游戏开发工具百科全书，16类300+工具索引，涵盖LLM/VLM/世界模型/图像/纹理/3D/动画/音乐等 | [AI-工具-Agent平台/ai-game-devtools/summary.md](AI-工具-Agent平台/ai-game-devtools/summary.md) | 2026-05-23 |
 | 26 | https://github.com/langchain-ai/langchain | Agent工程平台，monorepo架构含core/agents/chains/memory/retrievers，16+官方Partner集成 | [AI-工具-Agent平台/langchain/summary.md](AI-工具-Agent平台/langchain/summary.md) | 2026-05-23 |
 
+| 47 | https://github.com/EverMind-AI/EverOS | 6K Stars自进化Agent长期记忆系统，EverCore自组织记忆OS+HyperMem超图架构+完整评估基准 | [AI-工具-Agent平台/EverOS/summary.md](AI-工具-Agent平台/EverOS/summary.md) | 2026-05-30 |
+
 ---
 
 ## Claude Code 技能 / 插件
