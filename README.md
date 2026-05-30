@@ -104,6 +104,8 @@
 
 | 46 | https://github.com/st-tech/ppf-contact-solver | ZOZO开源物理仿真引擎，1.8亿级碰撞+GPU单精度+FEM弹性，TOG论文发表+Blender插件 | [游戏开发/ppf-contact-solver/summary.md](游戏开发/ppf-contact-solver/summary.md) | 2026-05-26 |
 
+| 52 | https://github.com/study8677/awesome-architecture | 864 Stars架构思维训练库，25个真实系统模板+26章方法论，AI时代开发者能力升级 | [编程学习-教程/awesome-architecture/summary.md](编程学习-教程/awesome-architecture/summary.md) | 2026-05-30 |
+
 ---
 
 ## 其他
