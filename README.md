@@ -19,7 +19,8 @@
 | 47 | https://github.com/EverMind-AI/EverOS | 6K Stars自进化Agent长期记忆系统，EverCore自组织记忆OS+HyperMem超图架构+完整评估基准 | [AI-工具-Agent平台/EverOS/summary.md](AI-工具-Agent平台/EverOS/summary.md) | 2026-05-30 |
 | 48 | https://github.com/esengine/DeepSeek-Reasonix | 14K Stars DeepSeek专用终端编码Agent，三支柱架构99%+缓存命中率，低成本长会话 | [AI-工具-Agent平台/DeepSeek-Reasonix/summary.md](AI-工具-Agent平台/DeepSeek-Reasonix/summary.md) | 2026-05-30 |
 
-| 49 | https://github.com/heygen-com/hyperframes | 22K Stars HTML原生视频生成框架，headless Chrome+FFmpeg seekable渲染，Agent友好确定性输出 | [前端-UI/hyperframes/summary.md](前端-UI/hyperframes/summary.md) | 2026-05-30 |
+| 50 | https://github.com/Lum1104/Understand-Anything | 45K Stars代码库理解插件，多Agent管道+Tree-sitter+LLM混合分析，15+平台支持 | [AI-工具-Agent平台/Understand-Anything/summary.md](AI-工具-Agent平台/Understand-Anything/summary.md) | 2026-05-30 |
+| 51 | https://github.com/Imbad0202/academic-research-skills | 24K Stars学术研究技能套件，10阶段论文管道+引用审计+完整性验证，CC BY-NC 4.0 | [Claude-Code-技能-插件/academic-research-skills/summary.md](Claude-Code-技能-插件/academic-research-skills/summary.md) | 2026-05-30 |
 
 ---
 
