@@ -21,6 +21,7 @@
 
 | 50 | https://github.com/Lum1104/Understand-Anything | 45K Stars代码库理解插件，多Agent管道+Tree-sitter+LLM混合分析，15+平台支持 | [AI-工具-Agent平台/Understand-Anything/summary.md](AI-工具-Agent平台/Understand-Anything/summary.md) | 2026-05-30 |
 | 51 | https://github.com/Imbad0202/academic-research-skills | 24K Stars学术研究技能套件，10阶段论文管道+引用审计+完整性验证，CC BY-NC 4.0 | [Claude-Code-技能-插件/academic-research-skills/summary.md](Claude-Code-技能-插件/academic-research-skills/summary.md) | 2026-05-30 |
+| 53 | https://github.com/AMAP-ML/SkillClaw | 1.6K Stars AI Agent技能自动进化框架，跨agent/设备/用户集体学习，兼容Hermes/OpenClaw/Claude Code等 | [AI-工具-Agent平台/SkillClaw/summary.md](AI-工具-Agent平台/SkillClaw/summary.md) | 2026-06-08 |
 
 ---
 
