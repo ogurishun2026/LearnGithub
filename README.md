@@ -23,6 +23,7 @@
 | 51 | https://github.com/Imbad0202/academic-research-skills | 24K Stars学术研究技能套件，10阶段论文管道+引用审计+完整性验证，CC BY-NC 4.0 | [Claude-Code-技能-插件/academic-research-skills/summary.md](Claude-Code-技能-插件/academic-research-skills/summary.md) | 2026-05-30 |
 | 53 | https://github.com/AMAP-ML/SkillClaw | 1.6K Stars AI Agent技能自动进化框架，跨agent/设备/用户集体学习，兼容Hermes/OpenClaw/Claude Code等 | [AI-工具-Agent平台/SkillClaw/summary.md](AI-工具-Agent平台/SkillClaw/summary.md) | 2026-06-08 |
 | 54 | https://github.com/physics-dimension/PriceAI | 399 Stars AI订阅价格聚合比价平台，100+平台价格对比ChatGPT/Claude/Gemini/Grok等，Next.js+Supabase | [AI-工具-Agent平台/PriceAI/summary.md](AI-工具-Agent平台/PriceAI/summary.md) | 2026-06-08 |
+| 55 | https://github.com/cuihuan/awesome-ai-gateway | 50+ AI网关精选清单，9大类痛点导向+四维评分卡+可复现106×成本评测，CC0每日自动更新中英双语 | [AI-工具-Agent平台/awesome-ai-gateway/summary.md](AI-工具-Agent平台/awesome-ai-gateway/summary.md) | 2026-06-13 |
 
 ---
 
