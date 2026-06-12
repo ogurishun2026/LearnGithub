@@ -24,6 +24,8 @@
 | 53 | https://github.com/AMAP-ML/SkillClaw | 1.6K Stars AI Agent技能自动进化框架，跨agent/设备/用户集体学习，兼容Hermes/OpenClaw/Claude Code等 | [AI-工具-Agent平台/SkillClaw/summary.md](AI-工具-Agent平台/SkillClaw/summary.md) | 2026-06-08 |
 | 54 | https://github.com/physics-dimension/PriceAI | 399 Stars AI订阅价格聚合比价平台，100+平台价格对比ChatGPT/Claude/Gemini/Grok等，Next.js+Supabase | [AI-工具-Agent平台/PriceAI/summary.md](AI-工具-Agent平台/PriceAI/summary.md) | 2026-06-08 |
 | 55 | https://github.com/cuihuan/awesome-ai-gateway | 50+ AI网关精选清单，9大类痛点导向+四维评分卡+可复现106×成本评测，CC0每日自动更新中英双语 | [AI-工具-Agent平台/awesome-ai-gateway/summary.md](AI-工具-Agent平台/awesome-ai-gateway/summary.md) | 2026-06-13 |
+| 56 | https://github.com/slopus/happy | 21.8K Stars Claude Code/Codex移动遥控客户端，端到端加密+iOS/Android/Web/CLI全端，pnpm monorepo 7子包 | [AI-工具-Agent平台/happy/summary.md](AI-工具-Agent平台/happy/summary.md) | 2026-06-13 |
+| 57 | https://github.com/lunel-dev/lunel | 1K Stars AI移动IDE+云开发平台，Expo+Bun+Rust(wezterm) PTY，5组件Makefile编排，22种语言 | [AI-工具-Agent平台/lunel/summary.md](AI-工具-Agent平台/lunel/summary.md) | 2026-06-13 |
 
 ---
 
