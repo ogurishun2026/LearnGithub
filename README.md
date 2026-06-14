@@ -47,6 +47,7 @@
 | 42 | https://github.com/Yuzc-001/skill-router | 40 Stars 低存在感Skill路由运行时，减少skill-selection浪费，实用主义设计 | [Claude-Code-技能-插件/skill-router/summary.md](Claude-Code-技能-插件/skill-router/summary.md) | 2026-05-26 |
 | 43 | https://github.com/tripleyak/SkillForge | 668 Stars AI Skill创作方法论，4阶段架构+多Agent评审，Art→Engineering转型 | [Claude-Code-技能-插件/SkillForge/summary.md](Claude-Code-技能-插件/SkillForge/summary.md) | 2026-05-26 |
 | 44 | https://github.com/maipianworni/SkillTree | 49 Stars AI Agent Skill分层路由树生成器，ROOT→ROUTER→SKILL树形结构 | [Claude-Code-技能-插件/SkillTree/summary.md](Claude-Code-技能-插件/SkillTree/summary.md) | 2026-05-26 |
+| 60 | https://github.com/OthmanAdi/planning-with-files | 23K Stars Manus风格文件规划技能，上下文持久化+完成门控+60+Agent支持 | [Claude-Code-技能-插件/planning-with-files/summary.md](Claude-Code-技能-插件/planning-with-files/summary.md) | 2026-06-14 |
 | 32 | https://github.com/BloopAI/vibe-kanban | ⭐看板式Agent任务管理平台，支持10+编码Agent，26.5K Stars，⚠️即将停服 | [AI-工具-Agent平台/vibe-kanban/summary.md](AI-工具-Agent平台/vibe-kanban/summary.md) | 2026-05-26 |
 | 46 | https://github.com/moeru-ai/airi | 开源AI虚拟角色平台，重现Neuro-sama灵魂，支持语音对话/Minecraft/Factorio游戏Agent | [AI-工具-Agent平台/airi/summary.md](AI-工具-Agent平台/airi/summary.md) | 2026-05-26 |
 
