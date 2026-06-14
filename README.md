@@ -27,6 +27,7 @@
 | 56 | https://github.com/slopus/happy | 21.8K Stars Claude Code/Codex移动遥控客户端，端到端加密+iOS/Android/Web/CLI全端，pnpm monorepo 7子包 | [AI-工具-Agent平台/happy/summary.md](AI-工具-Agent平台/happy/summary.md) | 2026-06-13 |
 | 57 | https://github.com/lunel-dev/lunel | 1K Stars AI移动IDE+云开发平台，Expo+Bun+Rust(wezterm) PTY，5组件Makefile编排，22种语言 | [AI-工具-Agent平台/lunel/summary.md](AI-工具-Agent平台/lunel/summary.md) | 2026-06-13 |
 | 58 | https://github.com/pewdiepie-archdaemon/odysseus | 70K Stars自托管AI工作空间，Chat+Agent+邮件+日历+笔记+记忆，本地优先隐私优先 | [AI-工具-Agent平台/odysseus/summary.md](AI-工具-Agent平台/odysseus/summary.md) | 2026-06-14 |
+| 59 | https://github.com/refactoringhq/tolaria | 16K Stars本地Markdown知识库桌面应用，Tauri+React+BlockNote，AI-first设计 | [AI-工具-Agent平台/tolaria/summary.md](AI-工具-Agent平台/tolaria/summary.md) | 2026-06-14 |
 
 ---
 
