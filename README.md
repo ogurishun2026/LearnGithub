@@ -26,6 +26,7 @@
 | 55 | https://github.com/cuihuan/awesome-ai-gateway | 50+ AI网关精选清单，9大类痛点导向+四维评分卡+可复现106×成本评测，CC0每日自动更新中英双语 | [AI-工具-Agent平台/awesome-ai-gateway/summary.md](AI-工具-Agent平台/awesome-ai-gateway/summary.md) | 2026-06-13 |
 | 56 | https://github.com/slopus/happy | 21.8K Stars Claude Code/Codex移动遥控客户端，端到端加密+iOS/Android/Web/CLI全端，pnpm monorepo 7子包 | [AI-工具-Agent平台/happy/summary.md](AI-工具-Agent平台/happy/summary.md) | 2026-06-13 |
 | 57 | https://github.com/lunel-dev/lunel | 1K Stars AI移动IDE+云开发平台，Expo+Bun+Rust(wezterm) PTY，5组件Makefile编排，22种语言 | [AI-工具-Agent平台/lunel/summary.md](AI-工具-Agent平台/lunel/summary.md) | 2026-06-13 |
+| 58 | https://github.com/pewdiepie-archdaemon/odysseus | 70K Stars自托管AI工作空间，Chat+Agent+邮件+日历+笔记+记忆，本地优先隐私优先 | [AI-工具-Agent平台/odysseus/summary.md](AI-工具-Agent平台/odysseus/summary.md) | 2026-06-14 |
 
 ---
 
