@@ -29,6 +29,7 @@
 | 58 | https://github.com/pewdiepie-archdaemon/odysseus | 70K Stars自托管AI工作空间，Chat+Agent+邮件+日历+笔记+记忆，本地优先隐私优先 | [AI-工具-Agent平台/odysseus/summary.md](AI-工具-Agent平台/odysseus/summary.md) | 2026-06-14 |
 | 59 | https://github.com/refactoringhq/tolaria | 16K Stars本地Markdown知识库桌面应用，Tauri+React+BlockNote，AI-first设计 | [AI-工具-Agent平台/tolaria/summary.md](AI-工具-Agent平台/tolaria/summary.md) | 2026-06-14 |
 | 61 | https://github.com/p-e-w/heretic | 全自动LLM审查移除工具，Optuna参数优化+方向性消融，KL散度比人工更低 | [AI-工具-Agent平台/heretic/summary.md](AI-工具-Agent平台/heretic/summary.md) | 2026-06-14 |
+| 62 | https://github.com/headroomlabs-ai/headroom | 54K Stars AI Agent上下文压缩层，省60-95% token精度不掉，Python+Rust核心，库/代理/MCP三形态可逆压缩 | [AI-工具-Agent平台/headroom/summary.md](AI-工具-Agent平台/headroom/summary.md) | 2026-07-01 |
 
 ---
 
