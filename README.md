@@ -103,6 +103,7 @@
 | 29 | https://github.com/comet-ml/opik-openclaw | OpenClaw的官方Opik可观测性插件，拦截LLM/工具/子Agent事件导出到Comet Opik追踪监控 | [AI-工具-Agent平台/opik-openclaw/summary.md](AI-工具-Agent平台/opik-openclaw/summary.md) | 2026-05-26 |
 | 30 | https://github.com/Tracer-Cloud/opensre | ⭐AI SRE Agent框架，构建自有基础设施上的故障调查Agent，5.9K Stars支持60+集成 | [AI-工具-Agent平台/opensre/summary.md](AI-工具-Agent平台/opensre/summary.md) | 2026-05-26 |
 | 31 | https://github.com/derisk-ai/OpenDerisk | 多Agent协作的AI驱动SRE风险智能系统，DeepResearch RCA+可视化证据链+OpenRCA数据集，935 Stars | [AI-工具-Agent平台/OpenDerisk/summary.md](AI-工具-Agent平台/OpenDerisk/summary.md) | 2026-05-26 |
+| 63 | https://github.com/GenielabsOpenSource/spine-animation-ai | 252 Stars Spine 2D骨骼动画AI技能，SIFT+RANSAC自动绑骨定位+6种动画预设+Gemini/SAM换皮，非商业许可 | [游戏开发/spine-animation-ai/summary.md](游戏开发/spine-animation-ai/summary.md) | 2026-07-11 |
 
 ---
 
