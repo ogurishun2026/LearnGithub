@@ -60,6 +60,7 @@
 | 序号 | 仓库地址 | 一句话说明 | 详细文档 | 研究日期 |
 |------|----------|-----------|----------|----------|
 | 6 | https://github.com/Z4nzu/hackingtool | 一站式渗透测试工具集，185+工具按20类别整合，Python TUI菜单管理 | [安全工具-渗透测试/hackingtool/summary.md](安全工具-渗透测试/hackingtool/summary.md) | 2026-05-17 |
+| 64 | https://github.com/gmh5225/awesome-game-security | 3.1K Stars游戏安全资源大全，AI Skills集成，覆盖逆向/内核/DMA/移动平台安全 | [安全工具-渗透测试/awesome-game-security/summary.md](安全工具-渗透测试/awesome-game-security/summary.md) | 2026-07-16 |
 
 ---
 
