@@ -31,6 +31,7 @@
 | 61 | https://github.com/p-e-w/heretic | 全自动LLM审查移除工具，Optuna参数优化+方向性消融，KL散度比人工更低 | [AI-工具-Agent平台/heretic/summary.md](AI-工具-Agent平台/heretic/summary.md) | 2026-06-14 |
 | 62 | https://github.com/headroomlabs-ai/headroom | 54K Stars AI Agent上下文压缩层，省60-95% token精度不掉，Python+Rust核心，库/代理/MCP三形态可逆压缩 | [AI-工具-Agent平台/headroom/summary.md](AI-工具-Agent平台/headroom/summary.md) | 2026-07-01 |
 | 65 | https://github.com/yynxxxxx/Codex-X | 1.15K Stars Codex Desktop/CLI管理工具，提示词模板+API切换+会话管理+Skills/MCP，Tauri 2跨平台 | [AI-工具-Agent平台/Codex-X/summary.md](AI-工具-Agent平台/Codex-X/summary.md) | 2026-07-16 |
+| 66 | https://github.com/RizRiyz/luvus | 567 Stars Rust原生AI编码Agent任务控制台，18种CLI Agent检测+会话恢复+worktree编排+UHP 1.0 | [AI-工具-Agent平台/luvus/summary.md](AI-工具-Agent平台/luvus/summary.md) | 2026-08-30 |
 
 ---
 
@@ -118,6 +119,14 @@
 | 46 | https://github.com/st-tech/ppf-contact-solver | ZOZO开源物理仿真引擎，1.8亿级碰撞+GPU单精度+FEM弹性，TOG论文发表+Blender插件 | [游戏开发/ppf-contact-solver/summary.md](游戏开发/ppf-contact-solver/summary.md) | 2026-05-26 |
 
 | 52 | https://github.com/study8677/awesome-architecture | 864 Stars架构思维训练库，25个真实系统模板+26章方法论，AI时代开发者能力升级 | [编程学习-教程/awesome-architecture/summary.md](编程学习-教程/awesome-architecture/summary.md) | 2026-05-30 |
+
+---
+
+## 机器人 / 具身智能
+
+| 序号 | 仓库地址 | 一句话说明 | 详细文档 | 研究日期 |
+|------|----------|-----------|----------|----------|
+| 67 | https://github.com/pollen-robotics/microduck | RK3566微型双足机器人运行时，50Hz强化学习运动控制+多服务架构+签名更新与自动回滚 | [机器人-具身智能/microduck/summary.md](机器人-具身智能/microduck/summary.md) | 2026-08-30 |
 
 ---
 
