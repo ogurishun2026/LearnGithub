@@ -1,0 +1,25 @@
+{
+  "blender_version": "5.2.2 LTS",
+  "bones": 28,
+  "source": "ARDY Core27 + independent root; Hips renamed pelvis",
+  "frame_range": [
+    1,
+    40
+  ],
+  "fps": 20,
+  "unit_scale_m": 0.01,
+  "hierarchy_root": "root",
+  "bvh_import_max_joint_error_cm": 4.7337947339642575e-05,
+  "pose_audit": {
+    "max_joint_position_error_cm": 0.00010402950472115405,
+    "max_rotation_matrix_error": 5.960464477539062e-07
+  },
+  "skin": {
+    "vertices": 9084,
+    "faces": 18152,
+    "vertices_pruned_from_five_weights": 18,
+    "max_influences": 4,
+    "unweighted_vertices": 0,
+    "max_vertex_difference_from_upstream_m": 0.0026417242638705793
+  }
+}

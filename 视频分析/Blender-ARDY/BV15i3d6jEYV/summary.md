@@ -75,7 +75,7 @@ verification/ardy/demo_v1/venv/Scripts/python.exe `
 - CUDA 峰值 allocated 约 883.8 MiB，reserved 约 904 MiB。
 - 加速方式：PyTorch eager，无 TensorRT。
 
-这些数字只代表 2 秒短序列，不能证明“6 GB 显卡端到端实时”。路径点、约束、键盘控制属于官方交互 demo，尚未在本机实测；视频中的 BVH 导出归于作者的第三方扩展，也未安装/验收。本次完成的是官方模型真实生成 + 网格动作预览的最小 demo，未完成角色重定向或整套教程功能。
+这些数字只代表 2 秒短序列，不能证明“6 GB 显卡端到端实时”。路径点、约束、键盘控制属于官方交互 demo，尚未在本机实测；视频中的 BVH 导出归于作者的第三方扩展，也未安装/验收。本次完成官方模型真实生成 + 网格动作预览，并在后续用自制转换脚本完成本样本的 BVH、Blender 工程和 FBX 导出/回读验证，见下方说明。未完成目标角色重定向或整套教程功能。
 
 ## 视频步骤索引（ASR 近似时间）
 
@@ -89,7 +89,18 @@ verification/ardy/demo_v1/venv/Scripts/python.exe `
 | 12:55–16:15 | 模型、Mixamo 绑定、Blender 导入与 Rokoko 重定向/缩放；本次未执行 |
 | 16:16–18:14 | 角色体型带来的碰撞和后期修正；不要照搬删除关键帧覆盖原动作的做法 |
 
-## Blender 后续流程
+## Blender 与 Unreal Engine 文件
+
+已为本次 40 帧样本提供 [Blender → UE 使用指南](blender-ue/README.md) 和 [交付文件](blender-ue/artifacts/)：
+
+- `ARDY_Walk_Core28.blend`：带官方参考人体和动画，直接打开并播放。
+- `ARDY_Walk_Core27.bvh`：可导入其他 Blender 场景的纯骨骼动作。
+- `SK_ARDY_Core28.fbx`：用于在 UE 首次创建独立 ARDY Skeleton。
+- `AN_ARDY_Walk_RootMotion.fbx`：向前位移约 1.47 米的动画，导入时指定上述 ARDY Skeleton，再通过 IK Retargeter 转到 Manny 或目标角色。
+
+![Blender 转换后五帧预览](blender-ue/artifacts/preview-contact-sheet.jpg)
+
+自制转换流程已在 Blender 5.2.2 LTS 验证 BVH 实际导入、保存工程重新打开、静态/动画 FBX 重新导入；动画保持 40 帧、20 FPS、`root → pelvis`，FBX 回读最大关节误差约 0.000119 cm。**这是 Blender 侧验证；UE 导入、目标角色重定向与脚滑修正尚未实测。**当前动作从站立进入迈步，首尾并非无缝循环。此导出不是视频作者的第三方扩展。
 
 视频展示的后半段是：在 Blender 导入 BVH，准备 Mixamo/自有角色，用 Rokoko 或其他重定向工具把 ARDY 动作映射到角色，再检查比例、碰撞和手脚接触。重定向属于独立的 Blender Pose/Binding 阶段；不要把“能生成 `.npz`”当作角色绑定成功。项目中的 Blender v4 baseline 和已有 Action 均未修改。
 
@@ -109,4 +120,5 @@ verification/ardy/demo_v1/venv/Scripts/python.exe `
 - `demo-artifacts/encoder-manifest.json`：编码来源、耗时与哈希，不含 embedding 二进制。
 - `demo-artifacts/download-report.json`：模型文件校验记录。
 - `scripts/`：编码、下载、缓存条件生成和最小测试脚本。
+- `blender-ue/`：Blender/FBX/BVH 文件、转换脚本、使用指南、许可和验证报告。
 - [bilibili-video-research skill](../../../Claude-Code-技能-插件/bilibili-video-research/SKILL.md)：可复用的视频研究与部署验收流程。

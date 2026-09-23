@@ -1,0 +1,36 @@
+{
+  "blend_reload": {
+    "max_joint_position_error_cm": 0.00010402950472115405,
+    "max_rotation_matrix_error": 5.960464477539062e-07
+  },
+  "skeletal_fbx": {
+    "bones": 28,
+    "pelvis_parent": "root",
+    "armature_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mesh_height_cm": 190.52008056640625,
+    "mesh_vertices": 9084
+  },
+  "animation_fbx": {
+    "bones": 28,
+    "armature_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "action": "Armature|Scene",
+    "frame_range": [
+      1.0,
+      40.0
+    ],
+    "pose_audit": {
+      "max_joint_position_error_cm": 0.00011875878084264136,
+      "max_rotation_matrix_error": 1.1920928955078125e-06
+    }
+  },
+  "status": "pass",
+  "unreal_import_status": "not tested in Unreal; FBX round-trip checked in Blender only"
+}
