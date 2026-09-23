@@ -1,0 +1,6 @@
+interface:
+  display_name: "ARDY 动作生成与 Blender／UE 导出"
+  short_description: "使用 ARDY 生成人体动作，制作循环并导出 Blender 与 UE 文件"
+  default_prompt: "使用 $ardy-motion-workflow 生成指定动作，检查姿态与接地，并交付 Blender、FBX 和预览。"
+policy:
+  allow_implicit_invocation: true

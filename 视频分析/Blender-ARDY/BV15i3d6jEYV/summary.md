@@ -128,4 +128,5 @@ verification/ardy/demo_v1/venv/Scripts/python.exe `
 - `scripts/`：编码、下载、缓存条件生成和最小测试脚本。
 - `blender-ue/`：Blender/FBX/BVH 文件、转换脚本、使用指南、许可和验证报告。
 - `combat-idle/`：4 秒原地战斗待机循环、预览、原始/处理后数据、加工脚本及验证报告。
+- [ardy-motion-workflow skill](../../../Claude-Code-技能-插件/ardy-motion-workflow/SKILL.md)：可安装到用户级技能目录的跨项目 ARDY 生成、原地循环、Blender/FBX 导出与验证流程；脚本支持显式输入/输出、独立动作名、待机/走路根骨模式，保留 UE 实测边界。
 - [bilibili-video-research skill](../../../Claude-Code-技能-插件/bilibili-video-research/SKILL.md)：可复用的视频研究与部署验收流程。
