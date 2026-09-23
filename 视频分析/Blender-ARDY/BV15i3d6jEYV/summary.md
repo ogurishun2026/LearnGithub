@@ -104,6 +104,12 @@ verification/ardy/demo_v1/venv/Scripts/python.exe `
 
 视频展示的后半段是：在 Blender 导入 BVH，准备 Mixamo/自有角色，用 Rokoko 或其他重定向工具把 ARDY 动作映射到角色，再检查比例、碰撞和手脚接触。重定向属于独立的 Blender Pose/Binding 阶段；不要把“能生成 `.npz`”当作角色绑定成功。项目中的 Blender v4 baseline 和已有 Action 均未修改。
 
+## 新增：战斗待机循环
+
+另已制作 [4 秒战斗待机](combat-idle/README.md)：徒手张手护脸、膝盖微屈、双脚站稳，保留小幅自然变化。用 ARDY 真实生成候选后选择稳定片段，做周期平滑、脚部 IK 和真实网格接地修正。交付 Blender、BVH、静态/动画 FBX 及循环预览；独立 root 固定，可用作原地待机。已通过 Blender/FBX 回读和网格接地检查，UE 角色重定向仍未实测。简化骨架没有完整手指，当前不是精确握拳。
+
+![战斗待机循环](combat-idle/artifacts/CombatIdle_Preview.gif)
+
 ## 已知限制
 
 1. 匿名 B 站访问没有正式字幕；ASR 文本只用于定位步骤。
@@ -121,4 +127,5 @@ verification/ardy/demo_v1/venv/Scripts/python.exe `
 - `demo-artifacts/download-report.json`：模型文件校验记录。
 - `scripts/`：编码、下载、缓存条件生成和最小测试脚本。
 - `blender-ue/`：Blender/FBX/BVH 文件、转换脚本、使用指南、许可和验证报告。
+- `combat-idle/`：4 秒原地战斗待机循环、预览、原始/处理后数据、加工脚本及验证报告。
 - [bilibili-video-research skill](../../../Claude-Code-技能-插件/bilibili-video-research/SKILL.md)：可复用的视频研究与部署验收流程。

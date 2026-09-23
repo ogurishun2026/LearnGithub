@@ -1,0 +1,10 @@
+{
+  "reviewed": ["preview-contact-sheet.jpg", "check-front.png", "check-side.png"],
+  "contact_sheet_frames": [1, 21, 41, 61, 81],
+  "method": "Visual inspection of actual rendered frames, separate from numerical audits",
+  "pose": "Open-hand fighting guard, bent elbows and knees, staggered stance",
+  "sampled_mesh_status": "No obvious limb inversion, body collapse, or floor penetration in reviewed frames",
+  "contact_correction": "Corrected initial unequal sole heights using actual four-influence skin, then rerendered",
+  "motion": "Subtle idle sway; rendered all 80 unique frames to 20 FPS MP4",
+  "limits": ["No complete finger chains; not a precise closed-fist animation", "Not a full self-collision audit", "No Unreal import or target-character retarget validation"]
+}

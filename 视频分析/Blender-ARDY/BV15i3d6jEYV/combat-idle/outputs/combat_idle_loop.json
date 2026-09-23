@@ -1,0 +1,29 @@
+{
+  "source": "guard_00.npz",
+  "source_sha256": "7f6393bf1a4dc8b8ba84c5299acb6b3213df49c4757c80d447e8144ad4007400",
+  "source_frames_zero_based": [
+    40,
+    119
+  ],
+  "method": "Two-harmonic periodic fit of local rotations about SO(3) means and pelvis positions; analytic leg IK fixes ankles and foot orientation; fixed independent root",
+  "frames_unique": 80,
+  "frames_with_endpoint": 81,
+  "fps": 20.0,
+  "cycle_seconds": 4.0,
+  "loop_endpoint_joint_error_m": 0.0,
+  "loop_endpoint_rotation_error": 0.0,
+  "foot_joint_drift_m": 2.745733557230897e-15,
+  "min_toe_joint_height_m": 0.017925039034294543,
+  "sole_ground_correction_m": {
+    "Left": 0.004319493190020886,
+    "Right": 0.010079106374681231
+  },
+  "root_motion": "Independent root fixed; natural pelvis sway retained",
+  "pelvis_excursion_m": [
+    0.0029705468887709797,
+    0.0011924865889637593,
+    0.009651564403134732
+  ],
+  "visual_status": "See separate visual-review.json; joint metrics do not substitute for mesh review",
+  "endpoint_discrete_velocity_difference_m_s": 0.0012034523385555068
+}

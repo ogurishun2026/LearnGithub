@@ -1,0 +1,55 @@
+{
+  "samples": [
+    {
+      "frame": 1,
+      "mesh_min_height_cm": 0.00992584228515625,
+      "sole_min_height_cm": {
+        "left": 0.009935617446899414,
+        "right": 0.00992584228515625
+      }
+    },
+    {
+      "frame": 21,
+      "mesh_min_height_cm": 0.009952783584594727,
+      "sole_min_height_cm": {
+        "left": 0.009960055351257324,
+        "right": 0.009952783584594727
+      }
+    },
+    {
+      "frame": 41,
+      "mesh_min_height_cm": 0.00993049144744873,
+      "sole_min_height_cm": {
+        "left": 0.00993049144744873,
+        "right": 0.009930729866027832
+      }
+    },
+    {
+      "frame": 61,
+      "mesh_min_height_cm": 0.009941816329956055,
+      "sole_min_height_cm": {
+        "left": 0.009941816329956055,
+        "right": 0.009951233863830566
+      }
+    },
+    {
+      "frame": 81,
+      "mesh_min_height_cm": 0.00992584228515625,
+      "sole_min_height_cm": {
+        "left": 0.009935617446899414,
+        "right": 0.00992584228515625
+      }
+    }
+  ],
+  "root_motion": "fixed independent root; pelvis has small sway",
+  "mesh_endpoint_max_difference_cm": 0.0,
+  "mesh_max_frame_displacement_cm": 0.17080945589544586,
+  "sole_horizontal_drift_cm": {
+    "left": 2.412626388678268e-05,
+    "right": 3.2815266674204356e-05
+  },
+  "sole_vertices": {
+    "left": 443,
+    "right": 443
+  }
+}

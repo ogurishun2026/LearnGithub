@@ -1,0 +1,30 @@
+{
+  "encoder": "Aero-Ex/KIMODO-Meta3_llm2vec_NF4",
+  "quantization": "NF4",
+  "conditioning_status": "experimental_quantized_llm2vec",
+  "device": "cuda",
+  "load_seconds": 4.343270100000154,
+  "model_config_sha256": "6e6907e5f1a56fd347f4fd75e4907367ba5586e156c900fa4b3facfcab0995a0",
+  "entries": [
+    {
+      "text": "A person stands still in a boxing guard stance, both fists raised in front of the face, elbows bent, knees slightly bent, feet planted apart. They maintain the fighting stance with subtle breathing and small weight shifts, without punching or stepping.",
+      "file": "7df71ab02c899de638482e239e3c0c090fec0c13e9b5533ac3fca664203469f6.npy",
+      "shape": [
+        1,
+        4096
+      ],
+      "seconds": 0.354748899999322,
+      "sha256": "68eea2cfc6db8f0911e9b4821934c3ad68e88838545603e542d1c7aef9089001"
+    },
+    {
+      "text": "A person is standing in a fighting ready stance with their fists held up to protect the chin. They stay in place, keeping their guard up and gently shifting their weight from side to side.",
+      "file": "157da2b263b414f4e22d4a62e8f52f50654945bd49ab738a32d471850fb54ca6.npy",
+      "shape": [
+        1,
+        4096
+      ],
+      "seconds": 0.12361290000080771,
+      "sha256": "10775080766244a4cd4e96e09a20d57a0bc41e2dcdceb6e80b97d232adc1dba7"
+    }
+  ]
+}
