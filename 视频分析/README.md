@@ -14,6 +14,12 @@
 
 专题整合：[UE5 / UEFN 角色动作制作知识库](游戏开发-UE5动捕/角色动作制作知识库.md)
 
+### Blender / ARDY 动画生成
+
+| 视频 | 内容 | 文档 |
+|------|------|------|
+| BV15i3d6jEYV | ARDY Windows 低显存实验、真实 2 秒动作、Viser 预览与可复用研究 skill | [summary.md](Blender-ARDY/BV15i3d6jEYV/summary.md) |
+
 ## 存放规则
 
 - 一级目录使用主题分类，例如 `游戏开发-UE5动捕`、`AI工具`、`Blender`。

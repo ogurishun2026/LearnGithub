@@ -1,0 +1,10 @@
+{
+  "model_load_seconds": 1.1070499999914318,
+  "total_seconds": 2.5306786000728607,
+  "cuda": true,
+  "torch": "2.5.1+cu121",
+  "peak_allocated_mib": 883.822265625,
+  "peak_reserved_mib": 904.0,
+  "text_encoder": "cached NF4 LLM2Vec (experimental quantized conditioning)",
+  "acceleration": "PyTorch eager; no TensorRT"
+}

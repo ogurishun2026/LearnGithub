@@ -1,0 +1,6 @@
+# Observed versions; not a full dependency lock.
+numpy==1.26.4
+transformers==5.8.1
+peft==0.20.0
+bitsandbytes==0.50.1
+huggingface-hub==1.27.0

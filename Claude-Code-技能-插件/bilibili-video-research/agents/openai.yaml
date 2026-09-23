@@ -1,0 +1,4 @@
+interface:
+  display_name: "B 站视频研究与部署"
+  short_description: "研究 B 站技术视频，核对官方来源并验证可运行的本地演示"
+  default_prompt: "使用 $bilibili-video-research 研究这个 B 站视频并验证部署结果。"

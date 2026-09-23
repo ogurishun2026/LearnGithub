@@ -1,0 +1,16 @@
+{
+  "artifact": "walk.npz",
+  "bytes": 94584,
+  "sha256": "0b394dd1ae68229ae5957e1711f790e5003a92f1ead2041f4f8b6cbc52ec8dc6",
+  "frames": 40,
+  "joints": 27,
+  "fps": 20,
+  "duration_seconds": 2.0,
+  "prompt": "A person walks forward.",
+  "all_numeric_arrays_finite": true,
+  "max_adjacent_joint_position_change_m": 0.20761418342590332,
+  "max_rotation_orthogonality_error": 3.5762786865234375e-07,
+  "max_rotation_determinant_error": 3.5762786865234375e-07,
+  "numeric_status": "pass",
+  "visual_status": "separate browser inspection required"
+}

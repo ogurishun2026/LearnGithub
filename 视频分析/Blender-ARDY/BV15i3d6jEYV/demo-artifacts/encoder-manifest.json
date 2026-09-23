@@ -1,0 +1,20 @@
+{
+  "encoder": "Aero-Ex/KIMODO-Meta3_llm2vec_NF4",
+  "quantization": "NF4",
+  "conditioning_status": "experimental_quantized_llm2vec",
+  "device": "cpu",
+  "load_seconds": 1.71531079999977,
+  "model_config_sha256": "6e6907e5f1a56fd347f4fd75e4907367ba5586e156c900fa4b3facfcab0995a0",
+  "entries": [
+    {
+      "text": "A person walks forward.",
+      "file": "e9cf8141cac79f35b4eb5702a9914142bc97917a0f091aaed3b4c252a3551d01.npy",
+      "shape": [
+        1,
+        4096
+      ],
+      "seconds": 83.07190050000008,
+      "sha256": "2df9c675481283ba3a39fb20ffee480a39623bf61d974e6126db00f3058f278c"
+    }
+  ]
+}

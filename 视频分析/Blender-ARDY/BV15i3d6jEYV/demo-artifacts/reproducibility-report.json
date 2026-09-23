@@ -1,0 +1,17 @@
+{
+  "seed": 0,
+  "comparison": "Original cached Kimodo encoding vs ARDY encoder repeat on same machine",
+  "all_arrays_equal": true,
+  "arrays": {
+    "local_rot_mats": true,
+    "global_rot_mats": true,
+    "posed_joints": true,
+    "root_positions": true,
+    "smooth_root_pos": true,
+    "foot_contacts": true,
+    "global_root_heading": true,
+    "fps": true,
+    "text": true
+  },
+  "embedding_sha256": "2df9c675481283ba3a39fb20ffee480a39623bf61d974e6126db00f3058f278c"
+}

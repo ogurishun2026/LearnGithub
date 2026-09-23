@@ -143,3 +143,4 @@
 | 分类 | 内容 | 详细文档 |
 |------|------|----------|
 | 游戏开发 / UE5 动捕 | B站视频总结、UE5 动捕流程、MetaHuman 与 AI 视频动作分析 | [视频分析/README.md](视频分析/README.md) |
+| Blender / ARDY | NVIDIA ARDY 低显存部署、真实生成 Demo 与 B 站研究 Skill | [研究与验证](视频分析/Blender-ARDY/BV15i3d6jEYV/summary.md) · [Skill](Claude-Code-技能-插件/bilibili-video-research/SKILL.md) |

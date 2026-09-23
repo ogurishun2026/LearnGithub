@@ -1,0 +1,11 @@
+{
+  "model_load_seconds": 2.0506438000002163,
+  "total_seconds": 3.348129599999993,
+  "cuda": true,
+  "torch": "2.5.1+cu121",
+  "peak_allocated_mib": 883.822265625,
+  "peak_reserved_mib": 904.0,
+  "text_encoder": "cached NF4 LLM2Vec (experimental quantized conditioning)",
+  "acceleration": "PyTorch eager; no TensorRT",
+  "timing_scope": "Upstream main: model load, cached conditioning, generation, decoding and saving; excludes process/import startup and prior text encoding"
+}
